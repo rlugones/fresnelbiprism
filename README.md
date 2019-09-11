@@ -8,6 +8,5 @@ python3 main.py
 ```
 
 El gráfico que se genera es el siguiente:
-```
+
 ![alt text](https://github.com/rlugones/fresnelbiprism/blob/master/propagacion.png "Propagacion de rayos y sus extensiones")
-```
